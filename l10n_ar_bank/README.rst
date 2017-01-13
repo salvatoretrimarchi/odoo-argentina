@@ -1,24 +1,14 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
     :alt: License
 
-Argentinian VAT Ledger Management
-=================================
-Creates Sale and Purchase VAT report menus in "Accounting/Reporting/Argentina Statements"
+Agregado de CBU a bancos y listado de Bancos Argentinos
+=======================================================
 
-Configuration
-=============
+Listado de entidades financieras habilitadas por el BCRA.
 
-TODO
+Este módulo le permite tener a disposición el listado actualizado de las entidades bancarias de la República Argentina.
 
-Usage
-=====
 
-TODO
-
-Know issues / Roadmap
-=====================
-
-TODO
 
 Credits
 =======
@@ -26,7 +16,7 @@ Credits
 Contributors
 ------------
 
-* TODO
+* Juan José Scarafía <jjs@adhoc.com.ar>
 
 Maintainer
 ----------
